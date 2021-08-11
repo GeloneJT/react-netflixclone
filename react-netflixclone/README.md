@@ -25,12 +25,18 @@
   ```
 
   ## Usage
-  After dependencies are installed, your demo site can be hosted using [Google Firebase]("https://firebase.google.com"). \
-  If you do not have Firebase setup within your IDE a step-by-step tutorial can be found here [Firebase Setup]("https://firebase.google.com/docs/web/setup"). \
-  Once Firebase is set up a link will be provided to you wihin your terminal with the hosted name for your application. \
+  After dependencies are installed, your demo site can be hosted using <a href="https://firebase.google.com">Google Firebase</a>. \
+  If you do not have Firebase setup within your IDE a step-by-step tutorial can be found here at <a href="https://firebase.google.com/docs/web/setup">Firebase Setup</a>. \
+  Once Firebase is set up a link will be provided to you wihin your terminal with the hosted name for your application.
+
+
+
   The deployed link should look like so:
 
   ![Netflix-Demo](img/NetflixCloneDemo.gif)
+
+  \
+  A link to a deployed version of this can be found <a href="https://netflix-clone-269dd.web.app">here</a>
 
   ## Credit
   Jelani Thomas
@@ -45,7 +51,7 @@
   eyeglass0324@gmail.com
 
   ## Questions
-  GitHub or Email
+  For questions regarding this repo or any others feel free to reach my via the GitHub or email listed above.
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
